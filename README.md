@@ -27,6 +27,10 @@ A collection of quizzes on web development.
 - [Functions](functions.md)
 - [Arrays](arrays.md)
 - [Loops](loops.md)
+- [Iterators](iterators.md)
+- [Control Flow](control-flow.md)
+- [Scope](scope.md)
+- [Objects](objects.md)
 - 
 - [JavaScript Programming Fundamentals](javascript-programming-fundamentals.md)
 - [JavaScript and jQuery Best Practices](javascript-and-jquery-best-practices.md)
